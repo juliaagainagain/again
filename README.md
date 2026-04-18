@@ -1,4 +1,4 @@
-# again
+# julia de bolso
 
 Criei este site para praticar programação com HTML, CSS e JavaScript, e também para ter um espaço pessoal bonitinho, leve e com a minha cara.
 
