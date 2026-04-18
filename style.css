@@ -679,13 +679,24 @@ html {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    gap: 22px;
-    font-size: 1.35rem;
-    color: #585961;
+    gap: 14px;
+}
+
+.iphone-control-icon {
+    width: 16px;
+    height: 16px;
+    object-fit: contain;
+    display: block;
+    opacity: 0.82;
 }
 
 .iphone-play {
-    font-size: 1.75rem;
+    width: 19px;
+    height: 19px;
+}
+
+.iphone-prev {
+    transform: scaleX(-1);
 }
 
 .music-links {
