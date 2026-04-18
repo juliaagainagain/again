@@ -1,4 +1,4 @@
-# again
+# again — site pessoal estático
 
 Projeto web estático com páginas em HTML/CSS/JS que simulam uma interface inspirada em apps (Home, Galeria, Notas e Músicas), com navegação lateral e layout responsivo.
 
@@ -51,4 +51,3 @@ Ou rode com um servidor local simples (opcional), por exemplo:
 - Menu lateral com comportamento mobile (off-canvas).
 - Interações em JavaScript para abrir/fechar notas.
 - Navegação entre páginas com identidade visual única.
-
